@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Andressance
+- 👀 I’m interested in Python development
+- 🌱 I’m currently learning C#, Java, JS and JSON
