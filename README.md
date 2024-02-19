@@ -34,7 +34,6 @@ A password manager with a graphical interface developed by @San1190.
         <p></p>
         <li>🛡️ Moderation</li>
         <li>🎮 Games</li>
-        <li>🎵 Music playback</li>
         <li>🖼️ Images and gifs</li>
         <li>👫 Social interaction</li>
         <li>💰 Cryptocurrency information</li>
