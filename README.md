@@ -7,6 +7,9 @@ Hello! I'm a passionate Computer Engineering student who loves exploring the wor
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andressance&show_icons=true&theme=radical)
 
+### Codewars Stats:
+![Codewars Stats](https://www.codewars.com/users/Andressance/badges/large)
+
 ### GitHub Languages:
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andressance&layout=compact&theme=radical)
 
