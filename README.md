@@ -56,5 +56,5 @@ A password manager with a graphical interface developed by @San1190.
 ## Contact:
 If you want to get in touch with me, you can do so through:
 - 💬 [Discord](https://discord.com/users/443124119580442656)
-- 💼 [LinkedIn](www.linkedin.com/in/andrés-sancenón-cuesta-10241425a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-sancen%C3%B3n-cuesta-10241425a?utm_source=share&utm_campaign=share_via&utm_content=profile&)
 - 🐙 [GitHub](https://github.com/Andressance)
