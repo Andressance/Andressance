@@ -58,3 +58,4 @@ If you want to get in touch with me, you can do so through:
 - 💬 [Discord](https://discord.com/users/443124119580442656)
 - 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-sancen%C3%B3n-cuesta-10241425a?utm_source=share&utm_campaign=share_via&utm_content=profile&)
 - 🐙 [GitHub](https://github.com/Andressance)
+- 📩 [Mail](mailto:contact.andressance@gmail.com)
