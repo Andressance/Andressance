@@ -48,7 +48,7 @@ A password manager with a graphical interface developed by @San1190.
       <p>Coming soon!</p>
     </td>
     <td>
-      <img src="https://media.discordapp.net/attachments/771370078331600906/1178435472071065640/image.png?ex=657f5d0e&is=656ce80e&hm=c4414a042227ca8c10c081fd84b6bc3ae081f1059ed909405da964286fc6a216&=&format=webp&quality=lossless&width=666&height=666" alt="Neochitary Image" width="200">
+      <img src="https://top.gg/_next/image?url=https%3A%2F%2Fimages.discordapp.net%2Favatars%2F1176859590214815774%2Fea3126f310f015ddbae7d4a9c251b0cb.png%3Fsize%3D128&w=128&q=75&width=666&height=666" alt="Neochitary Image" width="200">
     </td>
   </tr>
 </table>
