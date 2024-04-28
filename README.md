@@ -43,7 +43,7 @@ A password manager with a graphical interface developed by @San1190.
         <li>🛠️ Other useful commands</li>
       </ul>
       <h4>Created in collaboration with: @San1190</h4>
-      <p>Invite Neochitary to your server <a href="https://top.gg/_next/image?url=https%3A%2F%2Fimages.discordapp.net%2Favatars%2F1176859590214815774%2Fea3126f310f015ddbae7d4a9c251b0cb.png%3Fsize%3D128&w=128&q=75&width=666&height=666" target="_blank">here</a>!</p>
+      <p><a href="https://top.gg/bot/1176859590214815774" target="_blank">Invite Neochitary to your server here!</a></p>
       <h4>Access Neochitary's website:</h4>
       <p>Coming soon!</p>
     </td>
