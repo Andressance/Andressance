@@ -23,15 +23,34 @@ Transforms Word files (.docx) into a Moodle-compatible format (Aiken) and create
 ### Password Manager
 A password manager with a graphical interface developed by @San1190.
 
-## Projects in Progress:
-### Neochitary - Discord Bot 🤖
+### Sanatorio de Hechiceros
+The darkness has spread in a world where humans and animals fall into madness. Only the sorcerers can stop the plague.
 
 <table>
   <tr>
     <td width="50%">
-      Neochitary is a multifunctional Discord bot with a plethora of features:
+      <p>Sanatorio de Hechiceros is a turn-based strategy game developed for the Lvl Up Game Jam 2024 in collaboration with <a href="https://madfenix.com/" target="_blank">Mad Fenix Games</a>.</p>
       <ul>
-        <p></p>
+        <li>🧙‍♂️ A dark and mystical world where sorcerers fight to end the plague of madness.</li>
+        <li>🎮 Resource management turn-based gameplay.</li>
+      </ul>
+      <p><strong>Creators:</strong> <a href="https://github.com/vgrdominik" target="_blank">Valentí Gàmez</a> (Director, programmer, and Catalan translation), <a href="https://github.com/CastGames" target="_blank">Óscar Castro</a> (Game artist), <a href="https://github.com/jmgoya" target="_blank">Juan Goya</a> (Programmer), <a href="https://github.com/Asiquer" target=_blank">Asiquer</a> (Game artist and English translation), <a href="https://github.com/Andressance" target="_blank">Andrés</a> (Programmer), Fran Goya (Musician)</p>
+      <p><strong>Trailer:</strong> <a href="https://www.youtube.com/watch?v=Cf5icTwDW_w">Watch it here</a></p><br><p><a href="https://iamvalentigamez.itch.io/sanatorio-de-hechiceros" target="_blank">➡️ Try it here!</a></p>
+    </td>
+    <td>
+      <img src="https://img.itch.zone/aW1hZ2UvMjgxNzYyOC8xNjgzNTA5NS5qcGc=/original/xFbu%2BR.jpg" alt="Sanatorio de Hechiceros Screenshot" width="200">
+      <img src="https://img.itch.zone/aW1hZ2UvMjgxNzYyOC8xNjgzNTA5NC5qcGc=/347x500/ddPcRq.jpg" alt="Sanatorio de Hechiceros Screenshot" width="200">
+    </td>
+  </tr>
+</table>
+
+### Neochitary - Discord Bot 🤖
+Neochitary is a completed multifunctional Discord bot with a plethora of features:
+
+<table>
+  <tr>
+    <td width="50%">
+      <ul>
         <li>🛡️ Moderation</li>
         <li>🎮 Games</li>
         <li>🖼️ Images and gifs</li>
@@ -42,10 +61,9 @@ A password manager with a graphical interface developed by @San1190.
         <li>🧠 Interaction with AI</li>
         <li>🛠️ Other useful commands</li>
       </ul>
-      <h4>Created in collaboration with: @San1190</h4>
+      <p><strong>Created in collaboration with:</strong> @San1190</p>
       <p><a href="https://top.gg/bot/1176859590214815774" target="_blank">Invite Neochitary to your server here!</a></p>
-      <h4>Access Neochitary's website:</h4>
-      <p>Coming soon!</p>
+      <p><strong>Website:</strong> Coming soon!</p>
     </td>
     <td>
       <img src="https://github.com/Andressance/Andressance/assets/112200070/ea500368-2584-4796-9ae8-a38b539a417f" alt="Neochitary Image" width="200">
