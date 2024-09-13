@@ -14,15 +14,6 @@ Hello! I'm a passionate Computer Engineering student who loves exploring the wor
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andressance&layout=compact&theme=radical)
 
 ## Featured Projects:
-### Discord.py Moderation Bot
-A Discord bot with basic moderation functions.
-
-### Word to "Aiken" Converter
-Transforms Word files (.docx) into a Moodle-compatible format (Aiken) and creates .txt files of the same format.
-
-### Password Manager
-A password manager with a graphical interface developed by @San1190.
-
 ### Sanatorio de Hechiceros
 The darkness has spread in a world where humans and animals fall into madness. Only the sorcerers can stop the plague.
 
@@ -70,6 +61,16 @@ Neochitary is a completed multifunctional Discord bot with a plethora of feature
     </td>
   </tr>
 </table>
+
+### Discord.py Moderation Bot
+A Discord bot with basic moderation functions.
+
+### Word to "Aiken" Converter
+Transforms Word files (.docx) into a Moodle-compatible format (Aiken) and creates .txt files of the same format.
+
+### Password Manager
+A password manager with a graphical interface developed by @San1190.
+
 
 ## Contact:
 If you want to get in touch with me, you can do so through:
