@@ -1,7 +1,12 @@
 # 🌟 Andressance's Corner 🌟
 
 ## About me:
-Hello! I'm a passionate Computer Engineering student who loves exploring the world of development. My experience spans from Java, Haskell, C, Python to HTML and CSS. Constantly growing by learning JavaScript, TypeScript, Prolog, SQL, Unity, and even Prompt Engineering 🤖!
+Hi there! 👋
+I'm a Computer Engineering student and developer with a focus on both frontend and backend development. I work with Java, Python, C, C#, Haskell, HTML, CSS, JavaScript and TypeScript, and I have some experience with PostgreSQL.
+
+I also develop games using Godot (GDScript & C#) and love bringing ideas to life through code — whether it's a web app or a retro-style game.
+
+Always learning, always building.
 
 ## Activity:
 ### GitHub Stats:
