@@ -2,9 +2,9 @@
 
 ## About me:
 Hi there! 👋
-I'm a Computer Engineering student and developer with a focus on both frontend and backend development. I work with Java, Python, C, C#, Haskell, HTML, CSS, JavaScript and TypeScript, and I have some experience with PostgreSQL.
+I'm a Computer Engineering student and developer with a focus on both frontend and backend development. I work with Java, Python, C, C#, HTML, CSS, JavaScript and TypeScript, and PostgreSQL.
 
-I also develop games using Godot (GDScript & C#) and love bringing ideas to life through code — whether it's a web app or a retro-style game.
+I also develop games using Godot and love bringing ideas to life through code.
 
 Always learning, always building.
 
