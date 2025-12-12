@@ -1,118 +1,92 @@
+<div align="center">
+
 # 🌟 Andressance's Corner 🌟
 
-## About me:
-Hi there! 👋
-I'm a Computer Engineering student and Full Stack Developer passionate about building tools that improve productivity and learning.
+### Computer Engineer | Full Stack Developer | Game Dev
 
-My expertise lies in **modern web development** (SvelteKit, FastAPI) and **backend engineering** (Python, SQL), though I have a strong foundation in systems programming (C, C#, Java). I also love bringing ideas to life through Game Development with Godot.
-
-Currently, I'm focused on integrating **AI** and **advanced algorithms** into web applications.
-
-## 🚀 Current Main Project: InDeck
-
-**InDeck** is a generic Spaced Repetition System (SRS) platform designed to fix the UX problems of traditional tools like Anki while maintaining their algorithmic power.
-
-> *"The algorithmic efficiency of Anki combined with the active study methodology of WaniKani."*
-
-<table>
-  <tr>
-    <td width="60%">
-      <h3>What makes it special?</h3>
-      <ul>
-        <li>🧠 <strong>FSRS Algorithm:</strong> Implements the state-of-the-art scheduler for optimal retention.</li>
-        <li>⌨️ <strong>Active Recall:</strong> Focuses on typing answers rather than self-grading.</li>
-        <li>🤖 <strong>AI Integration:</strong> Generates decks automatically from PDFs/TXT and validates answers semantically using LLMs.</li>
-        <li>✨ <strong>Smart Validation:</strong> Uses Levenshtein distance logic to forgive typos intelligently.</li>
-        <li>🛠️ <strong>The Stack:</strong> SvelteKit (Frontend), FastAPI (Backend), PostgreSQL (Async DB).</li>
-      </ul>
-      <br>
-      <a href="https://in-deck.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-Visit_InDeck-blue?style=for-the-badge&logo=vercel" alt="Visit InDeck" />
-      </a>
-      <a href="https://github.com/Andressance/Andressance-InDeck" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Stats:
-
-### Languages & Tools I use:
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
+  <i>"Building tools that bridge the gap between learning and productivity."</i>
 </p>
 
-### Activity:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andressance&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressance&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-</p>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-sancen%C3%B3n-cuesta-10241425a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:contact.andressance@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
+</a>
+<a href="https://discord.com/users/443124119580442656">
+  <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
+</a>
+
+<br><br>
 
 ---
 
-## 🏆 Featured Projects:
+## 🚀 CURRENT FOCUS: InDeck
 
-### 🧙‍♂️ Sanatorio de Hechiceros
-*Turn-based strategy game developed for the Lvl Up Game Jam 2024.*
+**A Generic Spaced Repetition System (SRS) with Active Recall**
+
+> *The algorithmic power of Anki meets the sleek UX of WaniKani.*
+
+<br>
+
+<a href="https://in-deck.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/✨_VISIT_WEB_APP-000000?style=for-the-badge&logo=vercel&logoColor=white" height="50" />
+</a>
+
+<br><br>
 
 <table>
   <tr>
-    <td width="50%">
-      <p>The darkness has spread. In a world falling into madness, you command sorcerers to stop the plague.</p>
-      <ul>
-        <li>Developed in collaboration with <a href="https://madfenix.com/" target="_blank">Mad Fenix Games</a>.</li>
-        <li><strong>Role:</strong> Programmer (Combat logic & Systems).</li>
-        <li><strong>Tech:</strong> Godot Engine.</li>
-      </ul>
+    <td align="center" width="100%">
+      <h3>💡 Key Features</h3>
       <p>
-        <a href="https://iamvalentigamez.itch.io/sanatorio-de-hechiceros" target="_blank">➡️ Play it here!</a> | 
-        <a href="https://www.youtube.com/watch?v=Cf5icTwDW_w">Watch Trailer</a>
+        🧠 <strong>FSRS Algorithm</strong> — State-of-the-art memory scheduling.<br>
+        ⌨️ <strong>Active Input</strong> — Type your answers instead of self-grading.<br>
+        🤖 <strong>AI Powered</strong> — Generates decks from PDFs & semantic answer validation.<br>
+        🎯 <strong>Smart Typos</strong> — Levenshtein distance logic to forgive small mistakes.
+      </p>
+      <h3>🛠️ Built With</h3>
+      <p>
+        <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
-    <td>
-      <img src="https://img.itch.zone/aW1hZ2UvMjgxNzYyOC8xNjgzNTA5NS5qcGc=/original/xFbu%2BR.jpg" alt="Sanatorio Screenshot" width="100%">
-    </td>
   </tr>
 </table>
-
-### 🤖 Neochitary
-*Multifunctional Discord Bot used by communities.*
-
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>🛡️ <strong>Moderation:</strong> Automod systems & admin tools.</li>
-        <li>🎮 <strong>Entertainment:</strong> Minigames, image manipulation, and economy.</li>
-        <li>🧠 <strong>Features:</strong> AI interaction, crypto tracking, and social utilities.</li>
-      </ul>
-      <p><strong>Created with:</strong> @San1190</p>
-      <p><a href="https://top.gg/bot/1176859590214815774" target="_blank">🤖 Invite to Server</a></p>
-    </td>
-    <td>
-      <img src="https://github.com/Andressance/Andressance/assets/112200070/ea500368-2584-4796-9ae8-a38b539a417f" alt="Neochitary" width="150">
-    </td>
-  </tr>
-</table>
-
-### 📂 Other Utilities
-- **Word to "Aiken" Converter:** A tool to transform `.docx` files into Moodle-compatible formats for exams.
-- **Password Manager:** Secure local password management tool (Graphical Interface).
 
 ---
 
-## 📫 Contact:
-If you want to get in touch or collaborate:
+## 📊 GitHub Stats
 
-- 💬 [Discord](https://discord.com/users/443124119580442656)
-- 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-sancen%C3%B3n-cuesta-10241425a)
-- 📩 [Mail](mailto:contact.andressance@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andressance&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressance&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+| 🧙‍♂️ **Sanatorio de Hechiceros** | 🤖 **Neochitary** |
+|:---:|:---:|
+| **Turn-based Strategy Game** | **Advanced Discord Bot** |
+| <img src="https://img.itch.zone/aW1hZ2UvMjgxNzYyOC8xNjgzNTA5NS5qcGc=/original/xFbu%2BR.jpg" width="300" /> | <img src="https://github.com/Andressance/Andressance/assets/112200070/ea500368-2584-4796-9ae8-a38b539a417f" width="200" /> |
+| Developed for **Lvl Up Game Jam 2024**. A dark world where you command sorcerers to stop a plague of madness. | Multifunctional bot with moderation, economy, minigames, and AI interactions used by communities. |
+| <a href="https://iamvalentigamez.itch.io/sanatorio-de-hechiceros">🎮 Play Now</a> | <a href="https://top.gg/bot/1176859590214815774">🤖 Invite Bot</a> |
+| **Tech:** Godot Engine, C# | **Tech:** Python, Discord.py |
+
+<br>
+
+### 📂 Other Tools
+* **Word to "Aiken" Converter:** Transforms `.docx` files into Moodle-compatible quiz formats.
+* **Password Manager:** Secure local credential management tool.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
