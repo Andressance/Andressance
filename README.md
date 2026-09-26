@@ -22,14 +22,33 @@
 
 ---
 
-## 🚀 CURRENT FOCUS: InDeck
+## 🚧 En Desarrollo (Current Focus)
 
-**A Generic Spaced Repetition System (SRS) with Active Recall**
+### [Wow-whatsapp](https://github.com/Andressance/wow-whatsapp)
+> *Addon para World of Warcraft para escribir a través de WhatsApp.*[span_3](start_span)[span_3](end_span)
+> 
+> **Estado:** Primera versión funcional lanzada (en desarrollo, algunas funciones aún están en progreso y no funcionan del todo).
 
-> *The algorithmic power of Anki meets the sleek UX of WaniKani.*
+### [GothicSaveSync](https://github.com/Andressance/gothic_game_sync)
+> *Mod para Gothic 1 y 2.*[span_4](start_span)[span_4](end_span)
+>
+> **Estado:** En desarrollo. Un sistema para sincronizar partidas guardadas entre distintos dispositivos utilizando un servidor intermedio.
 
 <br>
 
+---
+
+## 🎓 Trabajo de Fin de Grado (Completado): InDeck
+
+**A Generic Spaced Repetition System (SRS) with Active Recall**
+
+> *The algorithmic power of Anki meets the sleek UX of WaniKani.* Mi proyecto final de carrera (TFG), ahora 100% terminado.
+
+<br>
+
+<a href="https://github.com/Andressance/InDeck-Public" target="_blank">
+  <img src="https://img.shields.io/badge/✨_VISIT_REPO-000000?style=for-the-badge&logo=github&logoColor=white" height="50" />
+</a>
 <a href="https://in-deck.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/✨_VISIT_WEB_APP-000000?style=for-the-badge&logo=vercel&logoColor=white" height="50" />
 </a>
@@ -90,3 +109,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
+
