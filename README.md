@@ -79,15 +79,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andressance&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressance&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="Top Languages" />
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 | 🧙‍♂️ **Sanatorio de Hechiceros** | 🤖 **Neochitary** |
