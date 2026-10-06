@@ -22,23 +22,23 @@
 
 ---
 
-## 🚧 En Desarrollo (Current Focus)
+## 🚧 In Development (Current Focus)
 
 ### [Wow-whatsapp](https://github.com/Andressance/wow-whatsapp)
-> *Addon para World of Warcraft para escribir a través de WhatsApp.*[span_3](start_span)[span_3](end_span)
+> *World of Warcraft addon to chat via WhatsApp.*
 > 
-> **Estado:** Primera versión funcional lanzada (en desarrollo, algunas funciones aún están en progreso y no funcionan del todo).
+> **Status:** First functional version released (under development, some features are still in progress and don't fully work yet).
 
 ### [GothicSaveSync](https://github.com/Andressance/gothic_game_sync)
-> *Mod para Gothic 1 y 2.*[span_4](start_span)[span_4](end_span)
+> *Mod for Gothic 1 and 2.*
 >
-> **Estado:** En desarrollo. Un sistema para sincronizar partidas guardadas entre distintos dispositivos utilizando un servidor intermedio.
+> **Status:** Stable version published. A system to synchronize save games between different devices using an intermediate server.
 
 <br>
 
 ---
 
-## 🎓 Trabajo de Fin de Grado (Completado): InDeck
+## 🎓 Final Degree Project (Completado): InDeck
 
 **A Generic Spaced Repetition System (SRS) with Active Recall**
 
