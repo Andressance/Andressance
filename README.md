@@ -25,9 +25,9 @@
 ## 🚧 In Development (Current Focus)
 
 ### 📄 Sale a Devolver *(Main Focus)*
-> *Simulador sistémico y parodia satírica sobre la burocracia, gestorías y las declaraciones de Hacienda en España.*
+> *Systemic simulator and satirical parody about bureaucracy, consultancy agencies, and tax returns in Spain.*
 >
-> **Status:** En desarrollo activo con [Red Tape Studio](https://redtapestudio.dev/).
+> **Status:** Active development with [Red Tape Studio](https://redtapestudio.dev/).
 >
 > <img src="./SALE_A_DEVOLVER.png" width="600" alt="Sale a Devolver Banner" />
 
@@ -47,11 +47,11 @@
 
 ---
 
-## 🎓 Final Degree Project (Completado): InDeck
+## 🎓 Bachelor's Thesis (Completed): InDeck
 
 **A Generic Spaced Repetition System (SRS) with Active Recall**
 
-> *The algorithmic power of Anki meets the sleek UX of WaniKani.* Mi proyecto final de carrera (TFG), ahora 100% terminado.
+> *The algorithmic power of Anki meets the sleek UX of WaniKani.* My final degree project (TFG), now 100% completed.
 
 <br>
 
