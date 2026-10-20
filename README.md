@@ -24,10 +24,10 @@
 
 ## 🚧 In Development (Current Focus)
 
-### 📄 [Sale a Devolver](https://github.com/Andressance) *(Main Focus)*
-> *Simulador sistémico y parodia satírica sobre la burocracia, gestorías y las declaraciones de Hacienda en España[cite: 1, 2, 3].*
+### 📄 Sale a Devolver *(Main Focus)*
+> *Simulador sistémico y parodia satírica sobre la burocracia, gestorías y las declaraciones de Hacienda en España.*
 >
-> **Status:** En desarrollo activo con Red Tape Studio[cite: 1, 2].
+> **Status:** En desarrollo activo con [Red Tape Studio](https://redtapestudio.dev/).
 >
 > <img src="./SALE_A_DEVOLVER.png" width="600" alt="Sale a Devolver Banner" />
 
