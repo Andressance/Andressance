@@ -27,7 +27,7 @@
 ### 📄 Sale a Devolver *(Main Focus)*
 > *Systemic simulator and satirical parody about bureaucracy, consultancy agencies, and tax returns in Spain.*
 >
-> **Status:** Alpha, in active development with [Red Tape Studio](https://redtapestudio.dev/). 3D first-person office with a comic look. Demo planned for **Steam Next Fest (February 2027)**.
+> **Status:** Alpha, in active development at [Red Tape Studio](https://redtapestudio.dev/), the indie studio I co-founded. 3D first-person office with a comic look. Demo planned for **Steam Next Fest (February 2027)**.
 >
 > <img src="./SALE_A_DEVOLVER.png" width="600" alt="Sale a Devolver Banner" />
 
