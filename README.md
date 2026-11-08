@@ -27,21 +27,21 @@
 ### 📄 Sale a Devolver *(Main Focus)*
 > *Systemic simulator and satirical parody about bureaucracy, consultancy agencies, and tax returns in Spain.*
 >
-> **Status:** Active development with [Red Tape Studio](https://redtapestudio.dev/).
+> **Status:** Alpha, in active development with [Red Tape Studio](https://redtapestudio.dev/). 3D first-person office with a comic look. Demo planned for **Steam Next Fest (February 2027)**.
 >
 > <img src="./SALE_A_DEVOLVER.png" width="600" alt="Sale a Devolver Banner" />
 
 <br>
 
 ### [Wow-whatsapp](https://github.com/Andressance/wow-whatsapp)
-> *World of Warcraft addon to chat via WhatsApp.*
-> 
-> **Status:** First functional version released (under development, some features are still in progress and don't fully work yet).
+> *Chat with your WhatsApp contacts and groups from inside World of Warcraft, in a whisper-messenger-style window.*
+>
+> **Status:** Working and still evolving: chat list, bubbles, quoted replies, groups, send queue and delivery marks. Lua addon + Node.js bridge. WoW has no network access, so messages travel as a pixel strip and load-on-demand addons. Started as a fork of [wow-ai](https://github.com/chelinho139/wow-ai).
 
 ### [GothicSaveSync](https://github.com/Andressance/gothic_game_sync)
-> *Mod for Gothic 1 and 2.*
+> *Native C++ plugin (Union SDK) for Gothic 1 and 2 that syncs save games between devices.*
 >
-> **Status:** Stable version published. A system to synchronize save games between different devices using an intermediate server.
+> **Status:** Stable. Automatic background cloud sync (custom `.gss` binary format, atomic restore with backup, FastAPI + Supabase backend) and peer-to-peer LAN sync, hardened after a security audit.
 
 <br>
 
@@ -88,6 +88,28 @@
 
 ---
 
+## 🧰 Tech I Work With
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+</p>
+
+📚 Currently doing the **MSc in Computer Engineering** at the Universitat Politècnica de València (UPV).
+
+---
+
 ## 🏆 Featured Projects
 
 | 🧙‍♂️ **Sanatorio de Hechiceros** | 🤖 **Neochitary** |
@@ -101,6 +123,7 @@
 <br>
 
 ### 📂 Other Tools
+- **[Mercart](https://github.com/Andressance/mercadona_v2):** Shopping assistant in React + Firebase with real-time shared lists.
 - **Word to "Aiken" Converter:** Transforms `.docx` files into Moodle-compatible quiz formats.
 - **Password Manager:** Secure local credential management tool.
 
