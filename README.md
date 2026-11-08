@@ -11,7 +11,6 @@
 <a href="https://redtapestudio.dev/"><img src="https://img.shields.io/badge/Red_Tape_Studio-Co--founder-c14438?style=for-the-badge" alt="Red Tape Studio" /></a>
 <a href="https://www.linkedin.com/in/andr%C3%A9s-sancen%C3%B3n-cuesta-10241425a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:contact.andressance@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://discord.com/users/443124119580442656"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
@@ -32,8 +31,9 @@
 A satirical, systemic management sim about bureaucracy, consultancy agencies and tax returns in Spain.<br>
 3D, first person, comic-style office. Built at **[Red Tape Studio](https://redtapestudio.dev/)**, the indie studio I co-founded.
 
-<img src="https://img.shields.io/badge/Status-Alpha-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Demo-Steam_Next_Fest_Feb_2027-1b2838?style=flat-square&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square" />
+<a href="https://red-tape-studio.itch.io/sale-a-devolver-demo"><img src="https://img.shields.io/badge/Play_the_demo-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Steam-Coming_soon-1b2838?style=flat-square&logo=steam&logoColor=white" />
 
 </div>
 
