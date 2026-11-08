@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:7b1e3a,100:c14438&height=220&section=header&text=Andr%C3%A9s%20Sancen%C3%B3n&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Andressance%20%C2%B7%20Red%20Tape%20Studio&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Andrés Sancenón" />
-
-<a href="https://github.com/Andressance">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C14438&center=true&vCenter=true&width=700&lines=Computer+Engineer;Full+Stack+Developer;Game+Developer+%40+Red+Tape+Studio;Building+tools+that+bridge+learning+and+productivity" alt="Typing intro" />
-</a>
+<img src="./assets/header.svg" width="100%" alt="Andrés Sancenón · Computer Engineer · Full Stack Developer · Game dev @ Red Tape Studio" />
 
 <br>
 
-<a href="https://redtapestudio.dev/"><img src="https://img.shields.io/badge/Red_Tape_Studio-Co--founder-c14438?style=for-the-badge" alt="Red Tape Studio" /></a>
-<a href="https://www.linkedin.com/in/andr%C3%A9s-sancen%C3%B3n-cuesta-10241425a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:contact.andressance@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://redtapestudio.dev/"><img src="https://img.shields.io/badge/Red_Tape_Studio-Co--founder-c8372d?style=for-the-badge&labelColor=0b3a73" alt="Red Tape Studio" /></a>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-sancen%C3%B3n-cuesta-10241425a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b3a73?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1a33" alt="LinkedIn" /></a>
+<a href="mailto:contact.andressance@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-c8372d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1a33" alt="Email" /></a>
 
 </div>
 
 <br>
 
-## ⚔️ Main Quest
+<div align="center"><img src="./assets/sec-main.svg" width="100%" alt="Main Quest" /></div>
 
 <div align="center">
 
@@ -24,22 +20,22 @@
   <img src="./SALE_A_DEVOLVER.png" width="760" alt="Sale a Devolver" />
 </a>
 
-### 📄 Sale a Devolver
+### Sale a Devolver
 
 *The real nightmare isn't the monsters. It's a tax inspection.*
 
 A satirical, systemic management sim about bureaucracy, consultancy agencies and tax returns in Spain.<br>
 3D, first person, comic-style office. Built at **[Red Tape Studio](https://redtapestudio.dev/)**, the indie studio I co-founded.
 
-<img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square" />
-<a href="https://red-tape-studio.itch.io/sale-a-devolver-demo"><img src="https://img.shields.io/badge/Play_the_demo-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Steam-Coming_soon-1b2838?style=flat-square&logo=steam&logoColor=white" />
+<img src="./assets/stamp-beta.svg" width="320" alt="Beta, demo disponible" /><br>
+<a href="https://red-tape-studio.itch.io/sale-a-devolver-demo"><img src="https://img.shields.io/badge/Play_the_demo-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=0a1a33" /></a>
+<img src="https://img.shields.io/badge/Steam-Coming_soon-1b2838?style=for-the-badge&labelColor=0a1a33&logo=steam&logoColor=white" />
 
 </div>
 
 <br>
 
-## 🛠️ Side Quests
+<div align="center"><img src="./assets/sec-side.svg" width="100%" alt="Side Quests" /></div>
 
 <table>
   <tr>
@@ -65,7 +61,7 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
 
 <br>
 
-## 🎓 Final Boss (defeated): InDeck
+<div align="center"><img src="./assets/sec-boss.svg" width="100%" alt="Final Boss: InDeck" /></div>
 
 <div align="center">
 
@@ -85,7 +81,7 @@ My bachelor's thesis at UPV, 100% completed.
 
 <br>
 
-## 🧰 Loadout
+<div align="center"><img src="./assets/sec-loadout.svg" width="100%" alt="Loadout" /></div>
 
 <div align="center">
 
@@ -95,7 +91,7 @@ My bachelor's thesis at UPV, 100% completed.
 
 <br>
 
-## 🗺️ Journey
+<div align="center"><img src="./assets/sec-journey.svg" width="100%" alt="Journey" /></div>
 
 ```mermaid
 timeline
@@ -110,7 +106,7 @@ timeline
 
 <br>
 
-## 🏆 Hall of Fame
+<div align="center"><img src="./assets/sec-fame.svg" width="100%" alt="Hall of Fame" /></div>
 
 | 🧙‍♂️ **Sanatorio de Hechiceros** | 🤖 **Neochitary** |
 |:---:|:---:|
@@ -124,8 +120,6 @@ timeline
 
 **📂 Also:** [Mercart](https://github.com/Andressance/mercadona_v2) (React + Firebase shared shopping lists) · Word to Aiken converter · Password manager
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c14438,50:7b1e3a,100:0b0f1a&height=120&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="Lo mundano, convertido en extraordinario." />
 
 </div>
