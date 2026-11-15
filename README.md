@@ -39,7 +39,7 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>💬 <a href="https://github.com/Andressance/wow-whatsapp">WoW WhatsApp</a></h3>
       <p><i>Your WhatsApp inside World of Warcraft.</i></p>
       <p>A whisper-style messenger window: chat list, bubbles, quoted replies, groups, send queue and delivery marks.</p>
@@ -48,7 +48,7 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>💾 <a href="https://github.com/Andressance/gothic_game_sync">GothicSaveSync</a></h3>
       <p><i>Cloud and LAN saves for Gothic 1 &amp; 2.</i></p>
       <p>A native C++ plugin (Union SDK) that syncs save games in the background: custom <code>.gss</code> binary format, atomic restore with backup, FastAPI + Supabase backend and peer-to-peer LAN sync. Hardened after a security audit.</p>
@@ -56,12 +56,10 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="33%" valign="top">
       <h3>🧩 <a href="https://github.com/Andressance/questbuffer">QuestBuffer</a> <sub><a href="https://www.curseforge.com/wow/addons/questbuffer">on CurseForge</a></sub></h3>
       <p><i>Share many quests with your party without them failing.</i></p>
-      <p>The server only allows <b>one</b> pending shared quest per player, so the second one fails with "X is busy". QuestBuffer queues your shares and sends the next one once everybody answered, adds a <b>batch share window</b> grouped by zone (with <a href="https://www.curseforge.com/wow/addons/questie">Questie</a> info), an <b>accept-all</b> panel for whoever receives, and works with <a href="https://www.curseforge.com/wow/addons/dialogueui">Dialogue UI</a>. Tested in game on WoW Forever, with the logic also covered by tests against a mocked WoW API.</p>
+      <p>The server allows only <b>one</b> pending shared quest, so the next one fails with "X is busy". QuestBuffer queues your shares, adds a <b>batch share window</b> by zone (<a href="https://www.curseforge.com/wow/addons/questie">Questie</a>-aware) and an <b>accept-all</b> panel for receivers. Works with <a href="https://www.curseforge.com/wow/addons/dialogueui">Dialogue UI</a>. Tested in game on WoW Forever.</p>
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
       <img src="https://img.shields.io/badge/CurseForge-v0.2.0-F16436?style=flat-square&logo=curseforge&logoColor=white" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
