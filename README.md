@@ -61,9 +61,9 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
     <td colspan="2" valign="top">
       <h3>🧩 <a href="https://github.com/Andressance/questbuffer">QuestBuffer</a> <sub><a href="https://www.curseforge.com/wow/addons/questbuffer">on CurseForge</a></sub></h3>
       <p><i>Share many quests with your party without them failing.</i></p>
-      <p>The server only allows <b>one</b> pending shared quest per player, so the second one fails with "X is busy". QuestBuffer queues your shares and sends the next one once everybody answered, adds a <b>batch share window</b> grouped by zone (with <a href="https://www.curseforge.com/wow/addons/questie">Questie</a> info), an <b>accept-all</b> panel for whoever receives, and works with <a href="https://www.curseforge.com/wow/addons/dialogueui">Dialogue UI</a>. Logic covered by tests against a mocked WoW API.</p>
+      <p>The server only allows <b>one</b> pending shared quest per player, so the second one fails with "X is busy". QuestBuffer queues your shares and sends the next one once everybody answered, adds a <b>batch share window</b> grouped by zone (with <a href="https://www.curseforge.com/wow/addons/questie">Questie</a> info), an <b>accept-all</b> panel for whoever receives, and works with <a href="https://www.curseforge.com/wow/addons/dialogueui">Dialogue UI</a>. Tested in game on WoW Forever, with the logic also covered by tests against a mocked WoW API.</p>
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-      <img src="https://img.shields.io/badge/CurseForge-v0.1.0-F16436?style=flat-square&logo=curseforge&logoColor=white" />
+      <img src="https://img.shields.io/badge/CurseForge-v0.2.0-F16436?style=flat-square&logo=curseforge&logoColor=white" />
       <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
     </td>
   </tr>
