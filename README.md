@@ -57,6 +57,16 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧩 <a href="https://github.com/Andressance/questbuffer">QuestBuffer</a> <sub><a href="https://www.curseforge.com/wow/addons/questbuffer">on CurseForge</a></sub></h3>
+      <p><i>Share many quests with your party without them failing.</i></p>
+      <p>The server only allows <b>one</b> pending shared quest per player, so the second one fails with "X is busy". QuestBuffer queues your shares and sends the next one once everybody answered, adds a <b>batch share window</b> grouped by zone (with <a href="https://www.curseforge.com/wow/addons/questie">Questie</a> info), an <b>accept-all</b> panel for whoever receives, and works with <a href="https://www.curseforge.com/wow/addons/dialogueui">Dialogue UI</a>. Logic covered by tests against a mocked WoW API.</p>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+      <img src="https://img.shields.io/badge/CurseForge-v0.1.0-F16436?style=flat-square&logo=curseforge&logoColor=white" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -100,7 +110,7 @@ timeline
     2023 : Neochitary Discord bot : Aiken converter
     2024 : Sanatorio de Hechiceros (game jam) : Pyxel arcade games
     2025 : InDeck begins : PIAE+ internship at UPV
-    2026 : InDeck thesis defended : GothicSaveSync : WoW WhatsApp : Red Tape Studio
+    2026 : InDeck thesis defended : GothicSaveSync : WoW WhatsApp : Red Tape Studio : QuestBuffer on CurseForge
     Now : MSc in Computer Engineering : Sale a Devolver
 ```
 
