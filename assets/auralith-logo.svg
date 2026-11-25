@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180">
+  <defs>
+    <linearGradient id="auralithGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B58AFF"/>
+      <stop offset="50%" stop-color="#8256FF"/>
+      <stop offset="100%" stop-color="#4C30C8"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="180" rx="22" fill="#0f0d1c"/>
+  <g transform="translate(24 20)">
+    <path d="M5 49 Q-6 62 5 75" fill="none" stroke="#9C78FF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-2 39 Q-18 62 -2 85" fill="none" stroke="#9C78FF" stroke-width="2" stroke-linecap="round" opacity=".65"/>
+    <path d="M147 49 Q158 62 147 75" fill="none" stroke="#9C78FF" stroke-width="3" stroke-linecap="round"/>
+    <path d="M154 39 Q170 62 154 85" fill="none" stroke="#9C78FF" stroke-width="2" stroke-linecap="round" opacity=".65"/>
+    <path d="M76 4 L130 34 L130 94 L76 124 L22 94 L22 34 Z" fill="none" stroke="url(#auralithGrad)" stroke-width="3" opacity=".55"/>
+    <path d="M76 16 L112 36 L112 88 L76 108 L40 88 L40 36 Z" fill="#171525" stroke="url(#auralithGrad)" stroke-width="2"/>
+    <path d="M76 24 L100 39 L100 84 L76 99 L52 84 L52 39 Z" fill="#8256FF" opacity=".13"/>
+    <path d="M76 24 L100 39 L100 84 L76 99 L52 84 L52 39 Z" fill="none" stroke="#B99AFF" stroke-width="1.5"/>
+    <path d="M76 24 L76 99 M52 39 L100 39 M52 84 L100 84" stroke="#A98AFF" stroke-width="1" opacity=".45" fill="none"/>
+    <path d="M76 35 L90 45 L90 78 L76 88 L62 78 L62 45 Z" fill="url(#auralithGrad)"/>
+    <path d="M76 35 L76 88" stroke="#E4D8FF" stroke-width="1.5" opacity=".65"/>
+  </g>
+  <g transform="translate(190 0)">
+    <text x="0" y="90" font-family="Inter, Montserrat, Arial, sans-serif" font-size="45" font-weight="700" letter-spacing="4" fill="#F4F0FF">AURALITH</text>
+    <text x="3" y="120" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="5" fill="#A99BCB">YOUR MUSIC. YOUR RULES.</text>
+  </g>
+</svg>

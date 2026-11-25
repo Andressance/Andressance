@@ -39,7 +39,30 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://github.com/Andressance/AURALITH"><img src="./assets/auralith-logo.svg" width="300" alt="AURALITH" /></a>
+      <p><i>Your music. Your server. Your rules.</i></p>
+      <p>A self-hosted, open-source music cloud: upload your library, share playlists with viewer or editor roles and listen together in real-time <b>jams</b> over WebSockets. Pluggable storage (local, Supabase, Neon, Google Drive) with mirroring and fallback, Argon2 auth, Alembic migrations, tests and CI.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/v1.2.0-AGPL--3.0-green?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💾 <a href="https://github.com/Andressance/gothic_game_sync">GothicSaveSync</a></h3>
+      <p><i>Cloud and LAN saves for Gothic 1 &amp; 2.</i></p>
+      <p>A native C++ plugin (Union SDK) that syncs save games in the background: custom <code>.gss</code> binary format, atomic restore with backup, FastAPI + Supabase backend and peer-to-peer LAN sync. Hardened after a security audit.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/Andressance/wow-whatsapp">WoW WhatsApp</a></h3>
       <p><i>Your WhatsApp inside World of Warcraft.</i></p>
       <p>A whisper-style messenger window: chat list, bubbles, quoted replies, groups, send queue and delivery marks.</p>
@@ -48,15 +71,7 @@ A satirical, systemic management sim about bureaucracy, consultancy agencies and
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
     </td>
-    <td width="33%" valign="top">
-      <h3>💾 <a href="https://github.com/Andressance/gothic_game_sync">GothicSaveSync</a></h3>
-      <p><i>Cloud and LAN saves for Gothic 1 &amp; 2.</i></p>
-      <p>A native C++ plugin (Union SDK) that syncs save games in the background: custom <code>.gss</code> binary format, atomic restore with backup, FastAPI + Supabase backend and peer-to-peer LAN sync. Hardened after a security audit.</p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧩 <a href="https://github.com/Andressance/questbuffer">QuestBuffer</a> <sub><a href="https://www.curseforge.com/wow/addons/questbuffer">on CurseForge</a></sub></h3>
       <p><i>Share many quests with your party without them failing.</i></p>
       <p>The server allows only <b>one</b> pending shared quest, so the next one fails with "X is busy". QuestBuffer queues your shares, adds a <b>batch share window</b> by zone (<a href="https://www.curseforge.com/wow/addons/questie">Questie</a>-aware) and an <b>accept-all</b> panel for receivers. Works with <a href="https://www.curseforge.com/wow/addons/dialogueui">Dialogue UI</a>. Tested in game on WoW Forever.</p>
@@ -108,7 +123,7 @@ timeline
     2023 : Neochitary Discord bot : Aiken converter
     2024 : Sanatorio de Hechiceros (game jam) : Pyxel arcade games
     2025 : InDeck begins : PIAE+ internship at UPV
-    2026 : InDeck thesis defended : GothicSaveSync : WoW WhatsApp : Red Tape Studio : QuestBuffer on CurseForge
+    2026 : InDeck thesis defended : GothicSaveSync : WoW WhatsApp : Red Tape Studio : QuestBuffer on CurseForge : AURALITH
     Now : MSc in Computer Engineering : Sale a Devolver
 ```
 
